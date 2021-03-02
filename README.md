@@ -16,3 +16,10 @@
 🔥 Fun fact about me, I am really passionate about dance, especially hip hop.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RenoNotFound&show_icons=true&theme=tokyonight"></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renato-gamper/" target="_blank">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" width="40">
+  </a>
+</p>
+
