@@ -1,10 +1,10 @@
-<p align="center"><img src="github-cover.jpg"></p>
+<p align="center"><img src="github-cover.jpg" width="100%"></p>
 
 <h2 align="center">Hi there, my name is Reno 👋🏼</h2>
 
-✍🏼 I’m currently learning to become a full stack developer at Codecool, however it's more clear now that I want to dig deeper in **frontend** development. It's really fascinating to see an app **visually unfold** and be a part of it. Recently, I've started to get to know Php and Laravel to be able to build a server for my frontend apps. During my studies, I've became familiar with a number of technologies, both backend and frontend, as well as **agile** methodologies. 
+✍🏼 I currently work as a Junior Frontend Mentor at Codecool. These courses help people to change their carreer and start a new chapter in IT. In fact, I studied full stack development in Codecool. It was a year long course and I had the chance to get familiar with a number of technologies, both backend and frontend, however it's clear now that I want to dig deeper in **frontend** development. It's really fascinating to see an app **visually unfold** and be a part of it. Thanks to the frontend course I learned about the MERN stack, which was love at first sight. During my studies, I had the chance to improve my **soft skills** as well, such as **agile** methodologies, team work, communcation, growth mindset, time management and presentation.
 
-💚 Interests/Technologies: ReactJs, HTML, CSS, JS, Bootstrap, OOP, PHP, Laravel, MySQL
+💚 Interests/Technologies: ReactJs, NodeJS, ExpressJS, MongoDB, HTML, CSS, JS, Bootstrap
 
 <p align="center">
   <img src="react-logo.png" width="75">
