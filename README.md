@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="react-logo.png" width="75">
+  <img src="nodejs.png" width="75">
+  <img src="mongodb.png" width="60">
   <img src="html-css-js.png" width="200">
-  <img src="php.png" width="100">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200">
 </p>
 
 🔥 Fun fact about me, I am really passionate about dance, especially hip hop.
